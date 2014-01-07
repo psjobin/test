@@ -6,6 +6,8 @@
 
 //whats up man!!! this is jobin!
 
+//today is jan 7
+
 int main()
 {
 	std::cout<<"****************************** B L A C K J A C K ******************************"<<std::endl<<std::endl;
